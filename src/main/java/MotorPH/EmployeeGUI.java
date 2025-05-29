@@ -22,11 +22,11 @@ public class EmployeeGUI extends JFrame {
         add(txtEmployeeNumber);
 
         add(new JLabel("First Name:"));
-        txtFirstName = new JTextField(20);
+        txtFirstName = new JTextField(25);
         add(txtFirstName);
 
         add(new JLabel("Last Name:"));
-        txtLastName = new JTextField(20);
+        txtLastName = new JTextField(25);
         add(txtLastName);
 
         btnSave = new JButton("Save");
