@@ -13,7 +13,7 @@ public class EmployeeGUI extends JFrame {
 
     public EmployeeGUI() {
         setTitle("MotorPH Employee Management");
-        setSize(400, 300);
+        setSize(600, 400);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new FlowLayout());
 
